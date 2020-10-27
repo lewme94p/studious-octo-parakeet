@@ -8,3 +8,5 @@ I will be adding more content soon.
 
 {% include contact.md %}
 
+{% include menu.md %}
+
